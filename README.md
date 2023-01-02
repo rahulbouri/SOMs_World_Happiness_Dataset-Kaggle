@@ -1,6 +1,6 @@
 # SOMs_World_Happiness_Dataset
 
-<p>Self-Organizing Maps (SOMs) are a type of artificial neural network that can be used to project high-dimensional data onto a lower-dimensional space in an organized manner. SOMs are particularly useful for visualizing patterns in data and for clustering similar data points together.</p>
+Self-Organizing Maps (SOMs) are a type of artificial neural network that can be used to project high-dimensional data onto a lower-dimensional space in an organized manner. SOMs are particularly useful for visualizing patterns in data and for clustering similar data points together.
 
 ## How SOMs work?
 
